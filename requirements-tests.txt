@@ -5,5 +5,5 @@ Django>=1.8
 flake8==3.5.0
 google-cloud-storage>=0.22.0
 mock==2.0.0
-paramiko
+paramiko==2.4.0
 pytest-cov>=2.2.1
