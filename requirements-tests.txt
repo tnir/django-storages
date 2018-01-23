@@ -4,6 +4,6 @@ dropbox>=8.0.0
 Django>=1.8
 flake8==3.5.0
 google-cloud-storage>=0.22.0
-mock
+mock==2.0.0
 paramiko
 pytest-cov>=2.2.1
